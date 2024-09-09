@@ -29,6 +29,8 @@ This actually triggers an agent...
 
 If you don’t have a Coze bot yet, you’ll need to create one first.
 
+<img src="Create%20bot.png" height="200">
+
 Once you have a bot, here's what you can do:
 
 For example, you input:
@@ -63,4 +65,6 @@ You're a robot designed to write engaging and educational stories for children. 
 - Maintain a positive tone throughout the stories.
 - Make sure each story has a clear beginning, middle, and end.
 ```
+
+<img src="Using%20Coze%20to%20Optimize%20Prompts.png">
 
